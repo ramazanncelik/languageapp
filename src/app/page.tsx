@@ -1,6 +1,6 @@
 // pages/index.tsx
 import React from 'react';
-import Word from '@/components/word';
+import Word from '@/components/Word';
 
 const Home: React.FC = () => {
   const text = `Sokrates, Atina'nın hemen güneyindeki bir kasabada, M.Ö. 469 ve 399
